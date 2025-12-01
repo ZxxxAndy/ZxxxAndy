@@ -11,7 +11,7 @@
 
 ## 📁 项目速览
 
-- 🎮 [Minecraft 整合包系列](https://github.com/ZxxxAndy/Minecraft-integrated-package)（持续更新中）
+- 🎮 [Minecraft 整合包系列](https://github.com/ZxxxAndy/Minecraft-integrated-package)（摆烂更新中）
 - 🔧 其他工具/脚本类项目也在准备加入中！
 
 ## 📫 联系我
